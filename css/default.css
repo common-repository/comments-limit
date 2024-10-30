@@ -1,0 +1,121 @@
+/* CSS Document */
+
+#limit_comments_body
+{
+background-color:#87AEC9;
+text-align:left;
+width:750px;
+margin:10px auto;
+padding:20px;
+}
+
+#limit_comments_body img
+{
+border:0px;
+padding:0px;
+}
+
+
+
+/* Styling for Heading Tags */
+
+#limit_comments_body h1
+{
+text-align:center;
+color:#000;
+font-family:Calibri, sans-serif;
+letter-spacing:-1px;
+}
+
+#limit_comments_body h2
+{
+color:#5885B4;
+font-family:"Times New Roman", serif;
+font-size:1.10em;
+}
+
+#limit_comments_body .clear
+{
+clear:both;
+}
+
+#limit_comments_body .bold
+{
+font-weight:bold;
+}
+
+#limit_comments_body .center
+{
+text-align:center;
+}
+
+#limit_comments_body .left
+{
+text-align:left;
+}
+
+#limit_comments_body #error
+{
+color:#FF0000;
+background-color:#E6E3CD;
+text-align:left;
+padding:10px;
+width:480px;
+margin:5px auto;
+border:1px solid #000;
+}
+
+#limit_comments_body #error h3
+{
+text-align:center;
+}
+
+#limit_comments_body #success
+{
+color:#48BA16;
+background-color:#F3E7B5;
+text-align:left;
+padding:10px;
+width:480px;
+margin:10px auto;
+border:1px solid #000;
+}
+
+#limit_comments_body #success h3
+{
+text-align:center;
+}
+
+#limit_comments_body #success p
+{
+color:#000;
+}
+
+#limit_comments_body #admin_table
+{
+width:680px;
+margin:0 auto;
+}
+
+#limit_comments_body #admin_table table
+{
+background-color:#000;
+font-size:0.85em;
+color:#fff;
+width:670px;
+}
+
+#limit_comments_body #admin_table th
+{
+background-color:#C3D313;
+color:#000;
+padding:10px;
+}
+
+#limit_comments_body #admin_table td
+{
+border-bottom:1px dotted #fff;
+padding:5px;
+}
+
+
